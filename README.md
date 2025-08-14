@@ -20,4 +20,4 @@ It covers text cleaning, tokenization, stopword removal, stemming, lemmatization
 
 ## 🛠 Installation
 ```bash
-https://github.com/your-username/imdb-nlp-preprocessing.git
+https://github.com/HastiGohel/imdb-nlp-preprocessing.git
